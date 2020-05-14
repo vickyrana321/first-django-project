@@ -26,7 +26,7 @@ SECRET_KEY = '+r_9idfm6a0cla$wa=_v!5_t$sq6h3t55o=n%ss1xx0gm*_by^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['vrkings.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 # Application definition
 
